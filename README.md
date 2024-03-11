@@ -1,2 +1,2 @@
-# Programa-o-Estruturada
+# Programacao_Estruturada
 Exercitando Programação 
